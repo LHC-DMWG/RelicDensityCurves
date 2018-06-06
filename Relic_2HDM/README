@@ -1,0 +1,38 @@
+Contours are saved as a TList of TGraphs.
+
+--- File contours_scan_mA_ma.root
+
+        Scan of ma vs mA = mH = mHc with mDM = 10 GeV. 
+        This is the nominal scan used in the DMWG whitepaper for studies of MonoH, MonoZ...
+        (All parameters chosen accordingly.)
+
+        x-axis: ma
+        y-axis: mA=mHc
+
+
+--- File contours_scan_mxd_ma.root
+        Scan of mxd vs ma as shown in the relic section of the whitepaper.
+
+        x-axis: ma (TeV)
+        y-axis: mxd (TeV)
+
+
+--- File contours_scan_mxd_ma_large.root
+        Same as contours_scan_mxd_ma.root, except much larger axis range
+
+        x-axis: ma (TeV)
+        y-axis: mxd (TeV)
+
+--- File contours_scan_mxd_tanbeta.root
+        Scan of mxd vs tan(beta) as shown in the relic section.
+
+        x-axis: mxd (GeV)
+        y-axis: tanbeta
+
+--- File contours_scan_ma_tanbeta.root
+        Scan of ma vs tan(beta) as shown in the relic section.
+
+        x-axis: ma
+        y-axis: tanbeta
+
+        
