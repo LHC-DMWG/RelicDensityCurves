@@ -2,7 +2,7 @@ Contours are saved as a TList of TGraphs.
 
 --- File contours_scan_mA_ma.root
 
-        Scan of ma vs mA = mH = mHc with mDM = 10 GeV. 
+        Scan of ma vs mA = mH = mHc with mDM = 10 GeV.
         This is the nominal scan used in the DMWG whitepaper for studies of MonoH, MonoZ...
         (All parameters chosen accordingly.)
 
@@ -35,4 +35,8 @@ Contours are saved as a TList of TGraphs.
         x-axis: ma
         y-axis: tanbeta
 
-        
+--- File line_scan_mdm.root
+        Scan of Dark Matter mass as shown in the whitepaper.
+
+        x-axis: mxd
+        y-axis: \Omega h^{2}
