@@ -1,4 +1,7 @@
 # RelicDensityCurves
+
+https://zenodo.org/badge/DOI/10.5281/zenodo.3250544.svg
+
 DM relic density curves for various simplified models of dark matter
 
 When using those curves, please cite: 
